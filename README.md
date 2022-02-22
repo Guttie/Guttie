@@ -15,15 +15,15 @@ Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 
 <!-- リポジトリステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&no-frame=true" />
 </a>
 <!-- ソースコード統計 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&no-frame=true" />
 </a>
 
 <!-- トロフィ統計 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Guttie/Guttie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
