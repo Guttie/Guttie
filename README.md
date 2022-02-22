@@ -1,4 +1,4 @@
-# 👋Hello world, I'm Yutaro Sakaguchi
+# 👋 Hello world, I'm Yutaro Sakaguchi
 <p align="left"> 
   <a href="https://github.com/Guttie/Guttie/">
     <img src="https://komarev.com/ghpvc/?username=Guttie" alt="Guttie" />
@@ -13,7 +13,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 <!-- サマリー -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
 
-## 🏆GitHub Trophies
+## 🏆 GitHub Trophies
 <!-- トロフィ統計 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -31,7 +31,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-## 🖋Skills
+## 🖋 Skills
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -50,6 +50,12 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   </a> 
 </p>
 
+## 📫 Reach me on
+<p align="left">
+  <a href="https://discord.gg/9DSpGTv6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9DSpGTv6" height="30" width="40" />
+  </a>
+</p>
 
 <!--
 **Guttie/Guttie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
