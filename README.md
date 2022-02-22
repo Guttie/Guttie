@@ -18,13 +18,11 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## 📈GitHub Stats
-<!-- リポジトリステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?ername=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </a>
-<!-- ソースコード統計 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&hide_border=true&layout=compact" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guttie&theme=dracula&hide_border=true&layout=compact" />
 </a>
   
 ## 🖋 Skills
