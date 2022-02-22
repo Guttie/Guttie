@@ -16,15 +16,18 @@ Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 <!-- トロフィ統計 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- リポジトリステータス -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<!-- ソースコード統計 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula" />
-</a>
-  
+
+<p align="left">
+   <!-- リポジトリステータス -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <!-- ソースコード統計 -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula" />
+  </a>
+</p>
+
 ## Languages and Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
