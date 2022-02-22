@@ -1,4 +1,12 @@
-### Hi there, I'm Yutaro Sakaguchi 👋
+# Hi there, I'm Yutaro Sakaguchi 👋
+<p align="left"> 
+  <a href="https://github.com/Guttie/Guttie/">
+    <img src="https://komarev.com/ghpvc/?username=Guttie" alt="Guttie" />
+  </a>
+  <a href="https://github.com/Guttie">
+    <img height="20" src="https://img.shields.io/github/followers/Guttie?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
 Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 
