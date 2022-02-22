@@ -28,7 +28,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 ## Languages and Tools
 <p align="left">
