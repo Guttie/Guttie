@@ -7,16 +7,16 @@
     <img height="20" src="https://img.shields.io/github/followers/Guttie?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
+  
 Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
-
+  
 <!-- サマリー -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
-
+  
 ## 🏆 GitHub Trophies
 <!-- トロフィ統計 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
+  
 ## 📈GitHub Stats
 <p align="left">
    <!-- リポジトリステータス -->
@@ -25,12 +25,10 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   </a>
   <!-- ソースコード統計 -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&hide_border=true&layout=compact" />
   </a>
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
+  
 ## 🖋 Skills
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -49,7 +47,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a> 
 </p>
-
+  
 ## 📫 Reach me on
 <p align="left">
   <a href="https://discord.gg/QMarzBQc" target="blank">
