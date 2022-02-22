@@ -28,6 +28,8 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   </a>
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guttie)](https://git.io/streak-stats)
+
 ## Languages and Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
