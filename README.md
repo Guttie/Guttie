@@ -1,4 +1,4 @@
-# Hi there, I'm Yutaro Sakaguchi 👋
+# 👋Hello world, I'm Yutaro Sakaguchi
 <p align="left"> 
   <a href="https://github.com/Guttie/Guttie/">
     <img src="https://komarev.com/ghpvc/?username=Guttie" alt="Guttie" />
