@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Yutaro Sakaguchi 👋
+
+Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie)](https://github.com/ryo-ma/github-profile-trophy)
