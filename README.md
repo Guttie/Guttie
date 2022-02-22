@@ -24,7 +24,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   </a>
   <!-- ソースコード統計 -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&layout=compact&hide_border=true&card_width=150" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&hide_border=true" />
   </a>
 </p>
 
