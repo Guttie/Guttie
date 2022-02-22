@@ -1,10 +1,10 @@
 ### Hi there, I'm Yutaro Sakaguchi 👋
 
 Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
-<br>
+
 <!-- サマリー -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=tokyonight)
-<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=vue)
+
 <!-- リポジトリステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
@@ -13,8 +13,7 @@ Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=tokyonight" />
 </a>
-<br>
-<br>
+
 <!-- トロフィ統計 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
