@@ -23,7 +23,7 @@ Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 </a>
 
 <!-- トロフィ統計 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Guttie/Guttie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
