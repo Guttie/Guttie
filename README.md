@@ -14,7 +14,7 @@ Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
 
 <!-- トロフィ統計 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- リポジトリステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
