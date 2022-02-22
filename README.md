@@ -3,15 +3,15 @@
 Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 
 <!-- サマリー -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
 
 <!-- リポジトリステータス -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <!-- ソースコード統計 -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula" />
 </a>
 
 <!-- トロフィ統計 -->
