@@ -8,7 +8,7 @@
   </a>
 </p>
 
-Hi there! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
+Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer from Japan.
 
 <!-- サマリー -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
