@@ -22,7 +22,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Guttie&theme=dracula&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5&layout=compact&theme=dracula&hide_border=true" />
 </a>
   
 ## 🖋 Skills
