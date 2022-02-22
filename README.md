@@ -20,15 +20,15 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 <p align="left">
    <!-- リポジトリステータス -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
   </a>
   <!-- ソースコード統計 -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&hide_border=true" />
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Guttie)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Languages and Tools
 <p align="left">
