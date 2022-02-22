@@ -19,10 +19,10 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
   
 ## 📈GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&layout=compact&theme=dracula&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&layout=compact&theme=dracula&hide_border=true" />
 </a>
   
 ## 🖋 Skills
