@@ -13,10 +13,11 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 <!-- サマリー -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guttie&theme=dracula)
 
+## 🏆GitHub Trophies
 <!-- トロフィ統計 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Guttie&theme=dracula&no-frame=true&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🖋GitHub Stats:
+## 📈GitHub Stats
 <p align="left">
    <!-- リポジトリステータス -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,7 +31,7 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Guttie&theme=dracula&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-## 🖋Languages and Tools:
+## 🖋Skills
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
