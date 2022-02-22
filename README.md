@@ -20,11 +20,11 @@ Welcome to my page! I'm Yutaro Sakaguchi, a learner to become a WEB engineer fro
 <p align="left">
    <!-- リポジトリステータス -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true&card_width=150" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Guttie&hide=contribs&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
   </a>
   <!-- ソースコード統計 -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&layout=compact&hide_border=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guttie&theme=dracula&layout=compact&hide_border=true&card_width=150" />
   </a>
 </p>
 
